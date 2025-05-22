@@ -1,0 +1,13 @@
+faça uma pequena história sobre a aventura de um personagem python, uma cobra que está tentando ir ao parque, mas encontra desafios de programação no meio do caminho
+
+gostei do segundo e primeiro desafio, mas troque o primeiro para algo mais fácil, sobre tipos de variáveis, e troque o último de for para while
+
+agora expanda um pouco os capítulos(cada desafio é um capítulo)
+
+gere uma imagem de uma porta trancada, com os tipos de variáveis para o capítulo 1
+
+agora crie uma imagem de um labirinto verde visto de cima para o capítulo 2
+
+agora faça uma ponte que tenha um loop no meio, como se fosse uma montanha russa, para o capítulo 3
+
+agora crie alguns desafios para a criança resolver, esses desafios serão colocados no final do livro
